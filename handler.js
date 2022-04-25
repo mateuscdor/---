@@ -185,7 +185,7 @@ module.exports = {
                     level: 0,
                     title: '',
                     exp: 0,
-                    limit: 20,
+                    limit:10,
                     lastclaim: 0,
                     lastjoin: 0,
                     money: 0,
